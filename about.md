@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Something about me.
+Hola soy h4ck1_06.
+	Estudiante autodidacta de Hacking y de Ciberseguridad en general :)
